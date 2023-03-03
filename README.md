@@ -35,6 +35,12 @@ _______________________
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/aventurasdemayra/" target="_blank">@aventurasdemayra</a> 
+    <p>Mayra de Oliveira ela
+Viver é muito perigoso.</p> 
+</div>
+
 
 <div>
     <a href="https://www.instagram.com/ana.produteira/" target="_blank">@ana.produteira</a> 
@@ -64,6 +70,19 @@ Blog pessoal
 </div>
 
 <div>
+    <a href="https://www.instagram.com/braziliansintech/" target="_blank">@braziliansintech</a> 
+    <p>A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/bibi.dev/" target="_blank">@bibi.dev</a> 
+    <p>BiBi • Desenvolvedora de Software
+🌈 | Desenvolvedora Full-Stack
+🥇 | Professora de programação
+👾 | Gamer</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/bia.codes/" target="_blank">@bia.codes</a> 
     <h4 style="color:purple">Front-end</h4>
     <p>
@@ -90,6 +109,29 @@ Blog pessoal
 </div>
 
 <div>
+    <a href="https://www.instagram.com/ocodigodela/" target="_blank">@ocodigodela</a> 
+    <p>Aline Souza | Front-end
+💻 Front-end student | Desenvolvimento web
+💡 Dicas e conteúdos
+📚 Compartilho aqui meus estudos</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/codegirlss/" target="_blank">@codegirlss</a> 
+    <p>Code Girl's
+Comunidade
+Nós ajudamos mulheres a se sentirem incluídas no meio da computação para uma transformação digital 💙💦</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/devbells/" target="_blank">@devbells</a> 
+    <p>Bela Toledo | Programação e Transição de Carreira
+🚀 | Ensino mulheres a entrarem na área da tecnologia sem complicação
+💻 | Front-end Engineer Vue
+💚 | Desenvolvedora de Software e Mentora de Carreira</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/cahcodes/" target="_blank">@cahcodes</a> 
     <h4 style="color:purple">Dados / Data</h4>
     <p>💡| Te ajudo a entender o mundo de analytics e business intelligence! Posto conteúdos sobre analytics e tecnologia
@@ -107,6 +149,34 @@ Blog pessoal
 </div>
 
 <div>
+    <a href="https://www.instagram.com/datagirls.neuron/" target="_blank">@datagirls.neuron</a> 
+    <p>Data Girls
+♀️ Empoderando mulheres em Tech, Data Science & IA</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/devsjavagirls/" target="_blank">@devsjavagirls</a> 
+    <p>Comunidade de TI para o público feminino focada em Java.</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/dev.isabela/" target="_blank">@dev.isabela</a> 
+    <p>BELA | FUTURA DEV
+Blog pessoal
+👩🏻‍💻 | @bela.bernardi
+📚 | estudante de ADS
+🧘🏻‍♀️ | rotina do dia a dia
+🤍 | dicas pra quem, assim como eu, tem foco em programação</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/dadosparamulheres/" target="_blank">@dadosparamulheres</a> 
+    <p>Dados para Mulheres
+👩🏻‍💻 Projeto dedicado a incentivar mais mulheres na área de dados.
+💁🏻‍♀️ Alessandra Midori | Analista de dados e consultora autônoma</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/dev.bianca/" target="_blank">@dev.bianca</a> 
     <p>Bianca | Desenvolvedora Java
 JAVA E OUTRAS TECNOLOGIAS
@@ -121,12 +191,33 @@ Te ajudo a descobrir tudo sobre a área de Desenvolvimento de Softwares 💻👩
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/elus.por/" target="_blank">@elus.por</a> 
+    <p><Elas por elas 💜/>
+Comunidade
+Projeto desenvolvido para promover a equidade de gênero na área tech e unir mulheres 💟</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/euaroh/" target="_blank">@euaroh</a> 
+    <p>Roh Gomes | UX UI Design Enthusiast
+Compartilho a minha transição de carreira para UX, rotina de estudos e dou pitacos sobre o mundo da Tecnologia
+📍Brazil 🇧🇷</p> 
+</div>
+
 
 <h3 style="color:red">F</h3>
 
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/feminis_tech/" target="_blank">@feminis_tech</a> 
+    <p>Feministech
+Ciência e tecnologia
+Comunidade feminista de pessoas que se identificam no feminino e não-bináries que compartilham conteúdo sobre tecnologia. ❤️🧡💛💚💙💜</p> 
 </div>
 
 <div>
@@ -145,6 +236,26 @@ Ajudo no início da sua carreira em tecnologia
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/girlcode.ao/" target="_blank">@girlcode.ao</a> 
+    <p>Eduarda
+Criador(a) de conteúdo digital
+👩🏾‍💻 @edu.bjesus ,20,🇦🇴
+📚 Téc. De Informática
+👩🏽‍🎓 Estudante de Engenharia Informática
+✨ dicas, rotina e evolução na carreira</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/garota_code/" target="_blank">@garota_code</a> 
+    <p>Garota Dev
+Ciência, tecnologia e engenharia
+Diversos conteúdos de TI 👩‍💻
+- Técnica em Informática
+- Graduada em análise e desenvolvimento de sistemas
+- Pós-graduanda em User experience design</p> 
 </div>
 
 
@@ -168,12 +279,43 @@ Ajudo no início da sua carreira em tecnologia
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/iwdsudeste/" target="_blank">@iwdsudeste</a> 
+    <p>International Women's Day 2023
+Comunidade
+Evento realizado por comunidades do Women Techmakers da região Sudeste do Brasil.</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/isabellesalome_/" target="_blank">@isabellesalome_</a> 
+    <p>ISABELLE SALOMÉ | TECNOLOGIA | EDTECH
+Criador(a) de conteúdo digital
+👩🏽‍🏫|Docente em TI, Palestrante e Mentora
+👩🏾‍💻|Por mais diversidade na tecnologia!
+💡|@cybermaker_
+✊🏾| @techdaspretas
+🤰🏾|Maternidade
+🤎|Ativista
+🔺️|MG</p> 
+</div>
+
 
 <h3 style="color:red">J</h3>
+
 
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/jcjessicarmo/" target="_blank">@jcjessicarmo</a> 
+    <p>Jéssica Carmo • Tecnologia • Cursos
+Criador(a) de conteúdo digital
+Me desenvolvendo a cada dia && compartilhando minha trajetória 🚀✨
+FrontEnd📱💻
+sobre mim • dicas • cursos • tecnologia ♡
+SP • 23 • CCB🎶</p> 
 </div>
 
 <div>
@@ -239,6 +381,32 @@ Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @cria
 </div>
 
 <div>
+    <a href="https://www.instagram.com/maiara.dev/" target="_blank">@maiara.dev</a> 
+    <p>Maiara Rodrigues | Rotina de uma Dev
+Rotina de uma futura Dev 💻
+HTML, CSS e Javascript 🖥️
+Dicas e perrengues 💻😅
+Dio Campus Expert 🚀</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/morgannadev/" target="_blank">@morgannadev</a> 
+    <p>Morganna 🥑 she/her
+Ciência e tecnologia
+DevRel @botcity_dev 🥑
+@aluraonline Star ⭐
+Criadora de conteúdo tech 💻
+Evangelizadora Ada Lovelace 👩‍💻
+Coordenadora @feminis_tech 🪐</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com//" target="_blank">@mocraveirodev</a> 
+    <p>Monica Craveiro de Menezes she/her/hers
+👩🏼‍💻 Fullstack Copy/Paste Developer</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/mariag.dev/" target="_blank">@mariag.dev</a> 
     <h4 style="color:purple">Front-end</h4>
     <p>Maria Gomes | Front-end
@@ -254,6 +422,15 @@ Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @cria
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/nordestina_dev/" target="_blank">@nordestina_dev</a> 
+    <p>Nordestina Dev
+👩🏽‍💻 Desenvolvedora web (Aprendendo)
+📚ADS 1/5
+👾 Programação do zero
+🤖Compartilho minha jornada de iniciante na TI</p> 
 </div>
 
 <div>
@@ -291,6 +468,20 @@ Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @cria
 </div>
 
 <div>
+    <a href="https://www.instagram.com/podprogramar/" target="_blank">@podprogramar</a> 
+    <p>ℙ𝕠𝕕ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕒𝕣
+Podcast
+#Podcast apresentado por desenvolvedoras focado em programação, notícias e histórias, tudo com um toque a mais.</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/pyladiesbrasil/" target="_blank">@pyladiesbrasil</a> 
+    <p>PyLadies Brasil
+Organização
+Rede de comunidades PyLadies do Brasil com foco de instigar mulheres a serem participantes ativas e líderes da comunidade de código aberto de Python.</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/programa.mana/" target="_blank">@programa.mana</a> 
     <h4 style="color:purple">Comunidade/Community</h4>
     <p>💻O <Programa, mana!> é uma comunidade voltada para mulheres da área Tech!💻 Eai, bora se fortalecer?
@@ -305,6 +496,16 @@ Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @cria
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/querensaless/" target="_blank">@querensaless</a> 
+    <p>Queren Sales
+🖥️ • Dev front-end
+🤱🏽 • mamãe da Olívia
+Prazer, devmae ✨</p> 
+</div>
+
+
+
 <h3 style="color:red">R</h3>
 
 <div>
@@ -313,9 +514,20 @@ Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @cria
 </div>
 
 <h3 style="color:red">S</h3>
+
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/simara_conceicao/" target="_blank">@simara_conceicao</a> 
+    <p>Simara Conceição | Quero Ser Dev
+Criador(a) de conteúdo digital
+👩🏾‍💻Dev na @thoughtworksbr
+💟LinkedIn Top Voice Tecnologia & Inovação
+✊🏾Por mais mulheres pretas em tech
+🗣Criadora do podcast e canal quero ser dev</p> 
 </div>
 
 <div>
@@ -354,6 +566,28 @@ Criador(a) de conteúdo digital
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/techparamulheres/" target="_blank">@techparamulheres</a> 
+    <p>Rafaella Matos | Tech Para Mulheres - TPM
+Criador(a) de conteúdo digital
+🙋‍♀️ Oi
+👩‍💻 Mulheres/mães migrando para a área de TI
+💊Pílulas de conhecimento
+🗺 Recife-PE</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
+    <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/techsistersbrasil/" target="_blank">@techsistersbrasil</a> 
+    <p>TechSisters Brasil
+Ciência, tecnologia e engenharia
+Comunidade de apoio e incentivo para mulheres que já estão ou pretendem entrar na área de Tecnologia ❤️🚀</p> 
+</div>
+
 <h3 style="color:red">U</h3>
 
 <div>
@@ -368,11 +602,32 @@ Criador(a) de conteúdo digital
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/vanessaweberfroes/" target="_blank">@vanessaweberfroes</a> 
+    <p>Vanessa Weber - Criadora de conteúdo do código fonte.</p> 
+</div>
+
 <h3 style="color:red">W</h3>
 
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/wgjbr/" target="_blank">@wgjbr</a> 
+    <p>Women Game Jam Brazil
+Evento
+Mais que uma Game Jam!
+Evento de dev jogos focado no publico feminino (cis/trans) e não-binárie.</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/womenintech.brazil/" target="_blank">@womenintech.brazil</a> 
+    <h4 style="color:purple">Comunidade/ Community</h4>
+    <p>Women in Tech - Chapter Brazil
+Comunidade
+🧠 Capacitando e empoderando mulheres através da tecnologia.</p> 
 </div>
 
 <h3 style="color:red">X</h3>
