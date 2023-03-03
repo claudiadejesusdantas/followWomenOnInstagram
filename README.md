@@ -10,7 +10,6 @@
     <p>#</p> 
 </div>
 
-
 -->
 
 <h2 style="color:purple;">Tags</h2>
@@ -590,10 +589,7 @@ Diversos conteúdos de TI 👩‍💻
 
 <h3 style="color:red">H</h3>
 
-<div>
-    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
-    <p>#</p> 
-</div>
+
 
 <div>
     <a href="https://www.instagram.com/hikarisproject_/" target="_blank">@hikarisproject_</a> 
@@ -613,18 +609,12 @@ Idealizadora < Elas por elas 💜/> @elus.por
 🥷🏻@lalis.png</p> 
 </div>
 
-<div>
-    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
-    <p>#</p> 
-</div>
+
 
 
 <h3 style="color:red">I</h3>
 
-<div>
-    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
-    <p>#</p> 
-</div>
+
 
 <div>
     <a href="https://www.instagram.com/iamsamcodes/" target="_blank">@iamsamcodes</a> 
@@ -675,10 +665,7 @@ Criador(a) de conteúdo digital
 <h3 style="color:red">J</h3>
 
 
-<div>
-    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
-    <p>#</p> 
-</div>
+
 
 <div>
     <a href="https://www.instagram.com/jakeliny.gracielly/" target="_blank">@jakeliny.gracielly</a> 
@@ -733,10 +720,7 @@ SP • 23 • CCB🎶</p>
 
 <h3 style="color:red">K</h3>
 
-<div>
-    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
-    <p>#</p> 
-</div>
+
 
 <div>
     <a href="https://www.instagram.com/kipper.dev/" target="_blank">@kipper.dev</a> 
@@ -780,10 +764,7 @@ Fomento o protagonismo negro e feminino em tech
 
 <h3 style="color:red">L</h3>
 
-<div>
-    <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
-    <p>#</p> 
-</div>
+
 
 <div>
     <a href="https://www.instagram.com/learnwithshero/" target="_blank">@learnwithshero</a> 
