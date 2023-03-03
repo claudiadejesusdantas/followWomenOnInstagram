@@ -18,6 +18,7 @@
 * <h4 style="color:purple">Back-end</h4>
 * <h4 style="color:purple">Comunidade/ Community</h4>
 * <h4 style="color:purple">Dados/Data</h4>
+* <h4 style="color:purple">Eventos/ Events</h4>
 * <h4 style="color:purple">Front-end</h4>
 * <h4 style="color:purple">Matemática / Math</h4>
 
@@ -106,6 +107,13 @@ Blog pessoal
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/cynthia.zanoni/" target="_blank">@cynthia.zanoni</a> 
+    <p>Cynthia Zanoni 👩🏻‍💻 #MulheresNaTecnologia ela/dela
+Criador(a) de conteúdo digital
+Developer • Mentora • Community @womakersgram • Cloud Advocate @microsoft 🐝 #DevRel #OpenSource #Beyonce✨</p> 
 </div>
 
 <div>
@@ -239,6 +247,39 @@ Ajudo no início da sua carreira em tecnologia
 </div>
 
 <div>
+    <a href="https://www.instagram.com/gecet.unesp/" target="_blank">@gecet.unesp</a> 
+    <p>GECET - Garotas nas Engenharias, Ciências Exatas e Tecnologias. Apoio: @proec_unesp @mulheressbmac. Parceria: @meninasdigitaissbc</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/garotadati/" target="_blank">@garotadati</a> 
+    <p>Garota da TI - Criador(a) de conteúdo digital
+Dicas de tecnologia para descomplicar a sua vida. Tens alguma dúvida?
+💻 Pergunta a GAROTA DA TI
+📧 chama@garotadati.com.br
+👩‍💻Por: Nathalia Crelier</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/grace.icmc.usp/" target="_blank">@grace.icmc.usp</a> 
+    <p>GRACE - ICMC - TechSchool 23: uma Tech como você nunca viu 💜</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/girlwho.codes/" target="_blank">@girlwho.codes</a> 
+    <p>Girl Who Codes
+Criador(a) de conteúdo digital
+Sou estudante de Ciência da Computação e Dev, quero incentivar mulheres na área de TI e compartilhar o que vou descobrindo por aí 💻💕</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/garotasnerds/" target="_blank">@garotasnerds</a> 
+    <p>Garotas Nerds
+Produto/serviço
+Representatividade feminina a partir da experiência e conhecimento de mulheres dentro do universo nerd.</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/girlcode.ao/" target="_blank">@girlcode.ao</a> 
     <p>Eduarda
 Criador(a) de conteúdo digital
@@ -277,6 +318,12 @@ Diversos conteúdos de TI 👩‍💻
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/iana.chan/" target="_blank">@iana.chan</a> 
+    <p>Iana Chan ela/dela
+Fundadora da @programaria, inciativa para aumentar diversidade de gênero na tecnologia.</p> 
 </div>
 
 <div>
@@ -350,6 +397,13 @@ SP • 23 • CCB🎶</p>
 </div>
 
 <div>
+    <a href="https://www.instagram.com/laislima_dev/" target="_blank">@laislima_dev</a> 
+    <p>Laís Lima | Programação | Tecnologia | Golang ela/dela
+👩🏼‍💻 Software Engineer na Globo
+🎸 Guitarrista da @tijolosbaianos</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/lumdiasrocha/" target="_blank">@lumdiasrocha</a> 
     <p>Lu Moraes
 Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @criativaevs
@@ -378,6 +432,21 @@ Eventos incríveis usando gestão ágil e design thinking - #eventoágil e @cria
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/meninasdigitaissbc/" target="_blank">@meninasdigitaissbc</a> 
+    <p>Programa Meninas Digitais
+Educação
+Programa Meninas Digitais da Sociedade Brasileira de Computação @sbcoficial 👩🏾👩🏼💡💻📱📚👩🏿👩🏻
+#meninasdigitaissbc</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/meninasdigitaisba/" target="_blank">@meninasdigitaisba</a> 
+    <p>Meninas Digitais - Bahia
+Parceiro do programa Meninas Digitais SBC para fomento a mulheres na tecnologia.
+Inscrições para o evento de HTML e CSS para iniciantes.</p> 
 </div>
 
 <div>
@@ -468,6 +537,19 @@ Coordenadora @feminis_tech 🪐</p>
 </div>
 
 <div>
+    <a href="https://www.instagram.com/programaria/" target="_blank">@programaria</a> 
+    <p>PrograMaria
+Prazer, nós somos A PrograMaria e nossas iniciativas são Por Mais Diversidade De Gênero Na Tecnologia 💜</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/princepreta/" target="_blank">@princepreta</a> 
+    <p>Princepreta Sol☀️#mulheresnatecnologia ela/she/ella/sa
+Criador(a) de conteúdo digital
+Perfil @sol_feliciano_ , Conselheira da @womakersgram ,voluntária @grupomulheresdobrasil,🏆ganhadora Women that Bild da @globant #mulhernegra #mulherti</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/podprogramar/" target="_blank">@podprogramar</a> 
     <p>ℙ𝕠𝕕ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕒𝕣
 Podcast
@@ -497,6 +579,13 @@ Rede de comunidades PyLadies do Brasil com foco de instigar mulheres a serem par
 </div>
 
 <div>
+    <a href="https://www.instagram.com/queroserprogramadora/" target="_blank">@queroserprogramadora</a> 
+    <p>Programação para mulheres
+Aline Teles, instrutora 👩‍🏫
+Vem pra tecnologia: + de 400 alunas 💜</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/querensaless/" target="_blank">@querensaless</a> 
     <p>Queren Sales
 🖥️ • Dev front-end
@@ -518,6 +607,12 @@ Prazer, devmae ✨</p>
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/sysadminasbr/" target="_blank">@sysadminasbr</a> 
+    <h4 style="color:purple">Comunidade/ Community</h4>
+    <p>SysAdminas Nosso objetivo é fornecer uma rede de apoio e orientação para mulheres que desejam trabalhar com infraestrutura de TI no Brasil. 👩🏻‍💻👩🏾‍💻</p> 
 </div>
 
 <div>
@@ -567,6 +662,13 @@ Criador(a) de conteúdo digital
 </div>
 
 <div>
+    <a href="https://www.instagram.com/thefemtech/" target="_blank">@thefemtech</a> 
+    <p>TheFemTech - Educação
+Thefemtech foi criado em março de 2019 , nosso objetivo é mostrar que você mulher pode e tem
+lugar na área de TI. Vamos juntas?</p> 
+</div>
+
+<div>
     <a href="https://www.instagram.com/techparamulheres/" target="_blank">@techparamulheres</a> 
     <p>Rafaella Matos | Tech Para Mulheres - TPM
 Criador(a) de conteúdo digital
@@ -595,6 +697,16 @@ Comunidade de apoio e incentivo para mulheres que já estão ou pretendem entrar
     <p>#</p> 
 </div>
 
+<div>
+    <a href="https://www.instagram.com/usakimodoki/" target="_blank">@usakimodoki</a> 
+    <p>Larissa | Front-end Developer
+Ciência, tecnologia e engenharia
+💖| Rotina de uma desenvolvedora
+👩🏻‍💻| Front-end | Carreira Tech
+📰| Newsletter semanal e ouro nos stories
+💻| Te ajudo a entrar na área de programação</p> 
+</div>
+
 <h3 style="color:red">V</h3>
 
 <div>
@@ -612,6 +724,12 @@ Comunidade de apoio e incentivo para mulheres que já estão ou pretendem entrar
 <div>
     <a href="https://www.instagram.com/#/" target="_blank">@#</a> 
     <p>#</p> 
+</div>
+
+<div>
+    <a href="https://www.instagram.com/wtmbrasil/" target="_blank">@wtmbrasil</a> 
+    <h4 style="color:purple">Eventos/ Events</h4>
+    <p> - </p> 
 </div>
 
 <div>
