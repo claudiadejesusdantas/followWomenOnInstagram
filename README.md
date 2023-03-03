@@ -1,5 +1,5 @@
-# Follow Women On Instagram
-<h1> Sigam mulheres no instagram</h1>
+# Sigam mulheres no instagram | Follow Women On Instagram
+
 
 <p>Repositório feito para indicar o conteúdo produzido por mulheres no instagram 💕.</p>
 
@@ -10,9 +10,11 @@
 
 -->
 
-<h2>Tags</h2>
-# Comunidades/ Community
-# Matemática / Math
+<h2 style="color:purple;">Tags</h2>
+
+* Comunidades/ Community
+* Dados/Data
+* Matemática / Math
 
 <h2>Mulheres/ Women</h2>
 
